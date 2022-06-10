@@ -4,6 +4,7 @@ A developer directory built on [Next.js](https://nextjs.org/) and [MongoDB Atlas
 
 ![](/public/og.png)
 
+
 Featured on the [MongoDB World](https://www.mongodb.com/world-2022) keynote.
 
 ### One-Click Deploy
